@@ -7,3 +7,11 @@ Sequence Diagram: 기능별 객체 상호작용을 시각화합니다.
 Activity Diagram: 전체 프로세스 흐름을 정의합니다.
 Component Diagram: 시스템의 물리적 아키텍처를 명확히 합니다.
 ```
+
+쉽게 만들어봅니다. 
+
+
+
+
+
+
